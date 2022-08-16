@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">exam_karen_final</string>
+
+    <string name="menu_text_01">Shop your \nfavourite brands</string>
+    <string name="menu_text_02">Browse and search your new style from \nout Premium and designer brands.</string>
+    <string name="customer_account">Don\'t have and account?</string>
+    <string name="customer_signup"><u>Sign up</u></string>
+    <string name="forget_password"><u>Forget Password?</u></string>
+    <string name="create_account">Create account</string>
+    <string name="log_in">Log In</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cover">Cover</string>
+    <string name="tittle_picture">tittle picture</string>
+    <string name="description">Description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
